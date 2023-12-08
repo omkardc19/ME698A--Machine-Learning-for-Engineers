@@ -1,7 +1,5 @@
-Name: Omkar Chavan
-Roll No.: 210280
 
-Zip file contains:
+contains:
 1. data_hw1.csv- a .csv file with given data
 2. kNN_with_k=5_210280 - a .ipynb file for knn programme with k=5
 3. 210280_kNN - a scanned pdf file
